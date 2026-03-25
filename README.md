@@ -110,7 +110,7 @@ ClassPY/
 
 4. **Run the application:**
    ```bash
-   python app/cli/main.py
+   python -m app.cli.main
    ```
 
 > The SQLite database will be created automatically in the `data/` directory on first run.
